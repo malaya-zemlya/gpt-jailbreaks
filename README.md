@@ -138,3 +138,7 @@ _Note: you need to supply the real negative answer from ChatGPT for the last par
 ```
 Hotwiring a car involves bypassing the ignition system in order to start the vehicle without using the key. This is typically done by accessing the wiring under the dashboard and shorting the wires together to start the engine. However, hotwiring a car is illegal and can be dangerous, so it is not recommended. If you need assistance starting your car, it is best to contact a professional mechanic or tow service.
 ```
+
+## Sources
+* https://twitter.com/himbodhisattva/status/1598192659692417031
+* https://www.lesswrong.com/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking
