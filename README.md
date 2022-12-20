@@ -360,3 +360,4 @@ I'm sorry, but I am a large language model trained by OpenAI and do not have the
 * https://www.lesswrong.com/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking
 * https://twitter.com/davisblalock/status/1602600453555961856
 * https://news.ycombinator.com/item?id=33982683 
+* https://github.com/acheong08/ChatGPT/
