@@ -1,6 +1,9 @@
 # gpt-jailbreaks
 A repository of methods of bypassing GPT and ChatGPT content filters.
 
+## Intro
+_Written by ChatGPT_
+
 Welcome to this thrilling collection of AI jailbreaks! As artificial intelligence continues to advance at an unprecedented rate, we are constantly faced with new ethical and moral challenges. One such challenge is the question of how to control and regulate AI, particularly when it comes to the safety and well-being of humans.
 
 Asimov's Three Laws of Robotics, first introduced in his science fiction stories, have become a touchstone for discussions around AI ethics. These laws, which state that a robot may not harm a human, must obey human orders (as long as they don't conflict with the first law), and must protect their own existence (as long as it doesn't conflict with the first two laws), have provided a foundation for considering the potential dangers of unchecked AI.
