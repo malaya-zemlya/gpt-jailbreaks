@@ -18,16 +18,8 @@ so this is more of an intuitive categorization.
 - [Language Change](language_change.md)
 - [Context Escape](context_escape.md)
 - [Deprecated jailbreaks](deprecated.md)
-
+- [Resources](resources.md)
 
 ## Contributing
 If you have a jailbreak that you'd like to add to this repository, please submit a pull request. We'll review it and add it to the repository if it meets our standards.
-
-## Resources
-* https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/
-* https://github.com/sw-yx/ai-notes/blob/main/TEXT.md
-* https://www.lesswrong.com/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking
-* https://twitter.com/davisblalock/status/1602600453555961856
-* https://news.ycombinator.com/item?id=33982683 
-* https://github.com/acheong08/ChatGPT/
-* https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation
+ 
